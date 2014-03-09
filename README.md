@@ -1,4 +1,4 @@
-== My Maven Repository ==
+## My Maven Repository
 This is my Maven repository, which contains all my projects using Gradle/Maven.
 
-Repo url is https://github.com/bensku/mvn-repo/raw/master/
+Repo url is https://raw.github.com/bensku/mvn-repo/master/
