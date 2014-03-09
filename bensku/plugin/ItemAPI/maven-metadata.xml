@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>bensku.plugin</groupId>
+  <artifactId>ItemAPI</artifactId>
+  <version>SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140309101810</lastUpdated>
+  </versioning>
+</metadata>
