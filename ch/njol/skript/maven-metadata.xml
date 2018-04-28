@@ -3,7 +3,7 @@
   <groupId>ch.njol</groupId>
   <artifactId>skript</artifactId>
   <versioning>
-    <release>2.2-dev33</release>
+    <release>2.2-dev35b</release>
     <versions>
       <version>2.2-dev27</version>
       <version>2.2-dev28</version>
@@ -11,7 +11,8 @@
       <version>2.2-dev30</version>
       <version>2.2-dev32</version>
       <version>2.2-dev33</version>
+      <version>2.2-dev35b</version>
     </versions>
-    <lastUpdated>20180211185046</lastUpdated>
+    <lastUpdated>20180428135113</lastUpdated>
   </versioning>
 </metadata>
